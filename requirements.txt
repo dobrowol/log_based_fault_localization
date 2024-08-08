@@ -1,0 +1,4 @@
+loguru
+numpy
+tqdm
+pandas
